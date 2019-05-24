@@ -1,0 +1,3 @@
+index:
+    path: /posts
+    controller: lib.post_controller::index
